@@ -5,10 +5,10 @@ import re
 import nltk
 from nltk.corpus import stopwords
 
-st.title("📰 Fake News Detector")
+st.title("Fake News Detector")
 
 # Show files in folder (for debugging)
-st.write("📂 Files in folder:", os.listdir())
+st.write("Files in folder:", os.listdir())
 
 # Load model safely
 try:
