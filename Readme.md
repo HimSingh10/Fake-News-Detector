@@ -27,3 +27,6 @@ streamlit run app.py
 - Used TF-IDF with n-grams
 - Applied Linear SVM
 - Built end-to-end ML pipeline
+
+## Live Demo
+https://fake-news-detector-cqv4zuusvrjhpfttyimtgy.streamlit.app/
